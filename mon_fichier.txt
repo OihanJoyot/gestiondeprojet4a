@@ -1,5 +1,0 @@
-# gestiondeprojet4a
-ajout d'une ligne depuis gitlab
-ajout d'un ligne depuis le terminal
-nouvelle ligne depuis original
-\nnouvelle ligne depuis original
